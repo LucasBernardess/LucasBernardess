@@ -1,7 +1,5 @@
 ### “Truth is like poetry. And most people fucking hate poetry.”
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBernardess&show_icons=true&theme=dracula) --!>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
