@@ -4,7 +4,7 @@
 <h3 align="left">Reach me out:</h3>
 <p align="left">
 <a href = "mailto:lucasbernardesdepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-eduardo-bernardes-de-paula-5615b7256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-eduardo-4a77b5266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
