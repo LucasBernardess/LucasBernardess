@@ -8,6 +8,7 @@
 </p>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasBernardess&show_icons=true&theme=one_dark_pro&line_height=27" alt="**Lucas Bernardess** github stats"/>
 
 ##
 <h3 align="left">Languages and Tools:</h3>
