@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Lucas Eduardo</h1>
 <p align="center">Hello! I am a Computer Science student at the Federal University of São João del-Rei (UFSJ), and my passion for technology constantly drives me to seek knowledge and challenges in this exciting field.
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasBernardess&show_icons=true&theme=one_dark_pro&line_height=27" alt="**Lucas Bernardess** github stats"/>
+##
 <h3 align="left">Reach me out:</h3>
 <p align="left">
 <a align="center" href = "mailto:lucasbernardesdepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-eduardo-bernardes-de-paula-5615b7256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasBernardess&show_icons=true&theme=one_dark_pro&line_height=27" alt="**Lucas Bernardess** github stats"/>
 
 ##
 <h3 align="left">Languages and Tools:</h3>
